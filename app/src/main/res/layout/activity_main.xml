@@ -26,7 +26,8 @@
             android:fontFamily="@font/poppins_semibold"
             android:lines="2"
             android:maxLines="99"
-            android:text="The average rental \n price around you"
+            android:text="The average rental\nprice around you"
+            android:textAlignment="center"
             android:textColor="#FFFFFF"
             android:textSize="20sp"
             android:visibility="invisible" />
@@ -59,7 +60,8 @@
             android:fontFamily="@font/poppins_semibold"
             android:lines="2"
             android:maxLines="99"
-            android:text="The value of the price is soon at \n the risk of rising to"
+            android:text="The value of the price is soon at\nthe risk of rising to"
+            android:textAlignment="center"
             android:textColor="#FFFFFF"
             android:textSize="20sp"
             android:visibility="invisible" />
@@ -91,7 +93,8 @@
             android:fontFamily="@font/poppins_bold"
             android:lines="2"
             android:maxLines="99"
-            android:text="Is your neighborhood in \n danger of gentrification?"
+            android:text="Is your neighborhood in\ndanger of gentrification?"
+            android:textAlignment="center"
             android:textColor="#FFFFFF"
             android:textSize="24sp" />
 
