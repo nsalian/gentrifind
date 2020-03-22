@@ -17,7 +17,7 @@ Note: API keys are removed (they are Android BuildConfig properties stored in an
 5. The app will calculate the predicted new price due to gentrification by inflating the current median price by 0.5% for every Starbucks found.
 6. A new screen will display the current median listing price, as well as the adjusted price due to expected gentrification. 
 
-## Next Steps: 
+### Next Steps: 
 1. Adding error checking - currently the app assumes that everything will run smoothly and that no errors will take place. 
 2. Utilizing a geocoder to pass more fine-grain addresses to the Quandl api.
 
@@ -25,6 +25,6 @@ Note: API keys are removed (they are Android BuildConfig properties stored in an
 ![Home Screen](screenshots/HomeScreen.png)
 
 ## Links and References
-[American Economic Association Paper](https://www.aeaweb.org/articles?id=10.1257/pandp.20181034)
-[Yelp](https://www.yelp.com/fusion)
-[Quandl-Zillow](https://www.quandl.com/data/ZILLOW-Zillow-Real-Estate-Research)
+1. [American Economic Association Paper](https://www.aeaweb.org/articles?id=10.1257/pandp.20181034)
+2. [Yelp](https://www.yelp.com/fusion)
+3. [Quandl-Zillow](https://www.quandl.com/data/ZILLOW-Zillow-Real-Estate-Research)
