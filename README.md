@@ -23,6 +23,7 @@ Note: API keys are removed (they are Android BuildConfig properties stored in an
 
 ## Screenshots
 ![Home Screen](screenshots/HomeScreen.png)
+![Second Screen](screenshots/SecondScreen.png)
 
 ## Links and References
 1. [American Economic Association Paper](https://www.aeaweb.org/articles?id=10.1257/pandp.20181034)
